@@ -8,8 +8,8 @@ You can see an overview of the icons used in the default Video.js font here: htt
 ## Usage
 
 ```sh
-$ npm install grunt-cli # only if you don't already have grunt installed
-$ npm install
+$ yarn install grunt-cli # only if you don't already have grunt installed
+$ yarn install
 $ grunt
 ```
 

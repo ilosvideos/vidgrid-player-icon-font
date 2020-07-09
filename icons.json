@@ -3,31 +3,39 @@
   "root-dir": "./node_modules/material-design-icons/",
   "icons": [{
     "name": "play",
-    "svg": "av/svg/production/ic_play_arrow_48px.svg"
+    "svg": "play.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "play-circle",
     "svg": "av/svg/production/ic_play_circle_outline_48px.svg"
   }, {
     "name": "pause",
-    "svg": "av/svg/production/ic_pause_48px.svg"
+    "svg": "pause.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "volume-mute",
-    "svg": "av/svg/production/ic_volume_off_48px.svg"
+    "svg": "volume-mute.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "volume-low",
-    "svg": "av/svg/production/ic_volume_mute_48px.svg"
+    "svg": "volume-low.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "volume-mid",
-    "svg": "av/svg/production/ic_volume_down_48px.svg"
+    "svg": "volume-mid.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "volume-high",
-    "svg": "av/svg/production/ic_volume_up_48px.svg"
+    "svg": "volume-high.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "fullscreen-enter",
-    "svg": "navigation/svg/production/ic_fullscreen_48px.svg"
+    "svg": "expand.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "fullscreen-exit",
-    "svg": "navigation/svg/production/ic_fullscreen_exit_48px.svg"
+    "svg": "minimize.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "square",
     "svg": "image/svg/production/ic_crop_square_48px.svg"
@@ -39,7 +47,8 @@
     "svg": "av/svg/production/ic_subtitles_48px.svg"
   }, {
     "name": "captions",
-    "svg": "av/svg/production/ic_closed_caption_48px.svg"
+    "svg": "cc.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "chapters",
     "svg": "action/svg/production/ic_list_48px.svg"
@@ -48,7 +57,8 @@
     "svg": "social/svg/production/ic_share_48px.svg"
   }, {
     "name": "cog",
-    "svg": "action/svg/production/ic_settings_48px.svg"
+    "svg": "settings.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "circle",
     "svg": "image/svg/production/ic_brightness_1_48px.svg"
@@ -66,7 +76,8 @@
     "svg": "navigation/svg/production/ic_cancel_48px.svg"
   }, {
     "name": "replay",
-    "svg": "av/svg/production/ic_replay_48px.svg"
+    "svg": "restart.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }, {
     "name": "facebook",
     "svg": "facebook.svg",
@@ -111,5 +122,9 @@
     "name": "picture-in-picture-exit",
     "svg": "picture-in-picture-exit.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "rewind",
+    "svg": "rewind.svg",
+    "root-dir": "./custom-icons/vidgrid/"
   }]
 }
